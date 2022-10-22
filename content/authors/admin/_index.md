@@ -6,7 +6,7 @@ bio: My research interests include smart construction, construction automation
   and robotics, and construction safety
 interests:
   - Smart construction
-  - Constructio robotics
+  - Construction robotics
   - Construction safety
 social:
   - icon: envelope
