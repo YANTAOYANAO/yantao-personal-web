@@ -8,5 +8,5 @@ active: true
 author: admin
 design:
   background:
-    image: cv-photo.jpg
+    image: ""
 ---
