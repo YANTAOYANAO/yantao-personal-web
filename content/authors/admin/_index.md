@@ -14,7 +14,7 @@ social:
     link: /#contact
   - icon: graduation-cap
     icon_pack: fas
-    link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+    link: https://scholar.google.com.hk/citations?user=DOq4oH8AAAAJ&hl=en
   - icon: linkedin
     icon_pack: fab
     link: https://www.linkedin.com/in/yantao-yu-4b3196b9/?originalSubdomain=hk
