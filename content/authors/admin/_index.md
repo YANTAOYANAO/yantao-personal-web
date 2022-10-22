@@ -12,7 +12,7 @@ social:
   - icon: envelope
     icon_pack: fas
     link: /#contact
-  - icon: graduation-cap
+  - icon: google-scholar
     icon_pack: fas
     link: https://scholar.google.com.hk/citations?user=DOq4oH8AAAAJ&hl=en
   - icon: linkedin
